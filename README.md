@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-Instructions:
+Game Instructions:
 
 1. Start a new Git repo for your project.
 
