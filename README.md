@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Console rock, paper, scissors game with basic input functionality
+Console.log() rock, paper, scissors game with basic input functionality
